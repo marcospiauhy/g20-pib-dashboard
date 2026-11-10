@@ -2,7 +2,7 @@
 
 Banco de dados e dashboard interativo sobre o crescimento econômico dos 19 países do G20 e da União Europeia, de 2000 a 2025.
 
-**🔗 Acesse o dashboard:** `https://marcospiauhy.github.io/g20-pib-dashboard/` *(troque pelo seu link depois de ativar o GitHub Pages)*
+**🔗 Acesse o dashboard:** `https://marcospiauhy.github.io/g20-pib-dashboard/` 
 
 ![Visão geral do dashboard](imagens/01_visao_geral.png)
 
